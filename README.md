@@ -1,8 +1,6 @@
 # Testing Gutenberg front-end
 
-This is first draft what is happening in the front-end when you have written with Gutenberg. 
-
-[Check the demo page](https://foxland.fi/demo/gutenberg/).
+This is draft what is happening in the front-end when you have written with Gutenberg. 
 
 ## Headings
 
